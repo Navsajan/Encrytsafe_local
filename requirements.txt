@@ -1,0 +1,5 @@
+tkinter
+Pillow
+pyotp
+qrcode
+sqlite3
