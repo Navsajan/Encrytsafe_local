@@ -16,7 +16,7 @@ Make sure you have Python 3.8 or higher installed.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Encryptsafe_local.git
+git clone https://github.com/Navsajan/Encryptsafe_local.git
 cd Encryptsafe_local
 ```
 ### 2. Install Dependencies
