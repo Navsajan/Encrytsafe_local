@@ -41,13 +41,13 @@ python main.py
 ```
 Replace main.py with your script name if it's different.
 
-###Usage
+### Usage
 Launch the application and log in.
 Save a password by entering the app name, password, and encryption key.
 View saved passwords using your encryption key and Google Authenticator code.
 Delete passwords securely if needed.
 
-###Security
+### Security
 Encryption: Passwords are AES encrypted before being stored in the SQLite database.
 Two-Factor Authentication: Google Authenticator TOTP adds an extra layer of security.
 File Structure
