@@ -1,4 +1,4 @@
-# EncryptSafe Local - Password Manager
+ki# EncryptSafe Local - Password Manager
 
 **EncryptSafe Local** is a secure, local password manager with encryption and two-factor authentication using Google Authenticator. Built with Python and Tkinter, it provides a user-friendly GUI for managing encrypted passwords securely on your local machine.
 
@@ -63,7 +63,7 @@ encryptsafe-local/
 Contributing
 Contributions are welcome! Please:
 ```
-###Fork the repository.
+### Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -m 'Add your feature').
 Push to the branch (git push origin feature/your-feature).
