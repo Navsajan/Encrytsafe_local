@@ -1,4 +1,4 @@
-ki# EncryptSafe Local - Password Manager
+### EncryptSafe Local - Password Manager
 
 **EncryptSafe Local** is a secure, local password manager with encryption and two-factor authentication using Google Authenticator. Built with Python and Tkinter, it provides a user-friendly GUI for managing encrypted passwords securely on your local machine.
 
