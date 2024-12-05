@@ -60,9 +60,10 @@ encryptsafe-local/
 ├── main.py                 # Main script to run the application
 ├── requirements.txt        # Python package dependencies
 └── README.md               # Project README
+```
 Contributing
 Contributions are welcome! Please:
-```
+
 ### Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -m 'Add your feature').
