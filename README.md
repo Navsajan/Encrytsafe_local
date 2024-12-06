@@ -17,7 +17,7 @@ Make sure you have Python 3.8 or higher installed.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Navsajan/Encrytsafe_local.git
-cd Encrytsafe_local
+cd Encrytsafe_local/last
 ```
 ### 2. Install Dependencies
 Install the required Python libraries using pip:
